@@ -4,7 +4,7 @@
 
 <img align="right" height="140" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" alt="linux computer gif" />
 
-- 🔭 I’m currently working on a game project with [Maël](https://github.com/GwdMael) and a web project with [Wicra](https://github.com/wicra).
+- 🔭 I’m currently working on a game project with [Maël](https://github.com/maeldolium) and a web project with [Wicra](https://github.com/wicra).
 - 🌱 I’m currently learning Unity and some web frameworks and libraries.
 - 📫 How to reach me: contact@alexwauquier.com
 - 😄 Pronouns: she/her
