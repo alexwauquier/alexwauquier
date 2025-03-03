@@ -40,6 +40,6 @@
 ### 📊 My GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexwauquier&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexwauquier&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=material-palenight&hide_border=false" height="150" alt="languages graph" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=alexwauquier&show_icons=true&theme=material-palenight" alt="stats graph" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexwauquier&layout=compact&theme=material-palenight&card_width=395" height="150" alt="languages graph" />
 </div>
