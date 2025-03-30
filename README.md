@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on a game project with [Maël](https://github.com/maeldolium).
 - 🌱 I’m also working on a web project with [Grégory](https://github.com/GregorySpro), [Karim](https://github.com/abdelkarim1907) and [Raphaël](https://github.com/fyles-git).
-- 📫 How to reach me: alex@alexwauquier.com
+- 📫 How to reach me: contact@alexwauquier.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I prefer coding to gaming.
 
