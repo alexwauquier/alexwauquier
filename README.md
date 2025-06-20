@@ -9,6 +9,7 @@
 - 📫 How to reach me: contact@alexwauquier.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I prefer coding to gaming.
+- 🌐 My website: [https://alexwauquier.com](https://alexwauquier.com)
 
 ## 💻 Technologies
 
