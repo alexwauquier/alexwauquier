@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I prefer coding to gaming.
 - 🌐 My website: [https://alexwauquier.com](https://alexwauquier.com)
 
-## 💻 Technologies
+## 💾 Skills
 
 ```mermaid
 mindmap
