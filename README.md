@@ -73,6 +73,6 @@ mindmap
 ## 📊 My GitHub Stats
 
 <div align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=alexwauquier&hide_title=true&show_icons=true&theme=material-palenight" alt="stats graph" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexwauquier&hide_title=true&layout=compact&theme=material-palenight" alt="languages graph" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=alexwauquier&theme=material-palenight&hide_title=true&rank_icon=percentile&show_icons=true" alt="stats graph" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexwauquier&theme=material-palenight&hide_title=true&layout=compact&card_width=320&langs_count=8" alt="languages graph" />
 </div>
