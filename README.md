@@ -6,6 +6,7 @@
 
 <img align="right" height="140" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" alt="linux computer gif" />
 
+- 🌱 I'm currently learning some web development technologies like React, Vite, Node.js, and others.
 - 📫 How to reach me: contact@alexwauquier.com
 - ⚡ Fun fact: I prefer coding to gaming.
 - 🌐 My website: [https://alexwauquier.com](https://alexwauquier.com)
