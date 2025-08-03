@@ -7,7 +7,6 @@
 <img align="right" height="140" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" alt="linux computer gif" />
 
 - 📫 How to reach me: contact@alexwauquier.com
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I prefer coding to gaming.
 - 🌐 My website: [https://alexwauquier.com](https://alexwauquier.com)
 
