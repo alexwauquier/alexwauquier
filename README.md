@@ -14,6 +14,10 @@
 ## 💾 Skills
 
 ```mermaid
+---
+config:
+  theme: base
+---
 mindmap
   root((Skills))
     co(Collaboration)
