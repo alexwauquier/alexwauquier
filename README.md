@@ -73,10 +73,3 @@ mindmap
         TailwindCSS
         Vite.js
 ```
-
-## 📊 My GitHub Stats
-
-<div align="left">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=alexwauquier&theme=material-palenight&hide_title=true&rank_icon=percentile&show_icons=true" alt="stats graph" />
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexwauquier&theme=material-palenight&hide_title=true&layout=compact&card_width=320&langs_count=8" alt="languages graph" />
-</div>
