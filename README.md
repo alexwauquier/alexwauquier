@@ -23,6 +23,7 @@ mindmap
     co(Collaboration)
       Jira
       Slack
+      Trello
     cy(Cybersecurity)
       Kali Linux
       Nmap
@@ -49,15 +50,14 @@ mindmap
       Python
       TypeScript
     ne(Networking)
+      NGINX
+      Traefik
       UFW
       WireGuard
     to(Tools)
       Docker
       Grafana
-      Let's Encrypt
-      NGINX
       Postman
-      Traefik
     vc(Version control)
       Git
       GitHub
@@ -70,6 +70,6 @@ mindmap
         CSS
         HTML
         React
-        TailwindCSS
-        Vite.js
+        Tailwind CSS
+        Vite
 ```
