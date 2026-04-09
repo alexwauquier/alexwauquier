@@ -25,7 +25,6 @@ mindmap
       Slack
       Trello
     cy(Cybersecurity)
-      Kali Linux
       Nmap
       Wireshark
     db(Database)
@@ -55,20 +54,17 @@ mindmap
       UFW
       WireGuard
     to(Tools)
+      Bruno
       Docker
       Grafana
-      Postman
     vc(Version control)
       Git
       GitHub
     wd(Web dev)
-      WordPress
       be(Back-end)
         Express
         Node.js
       fe(Front-end)
-        CSS
-        HTML
         React
         Tailwind CSS
         Vite
