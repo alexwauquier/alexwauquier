@@ -10,6 +10,7 @@
 - 📫 How to reach me: contact@alexwauquier.com
 - ⚡ Fun fact: I prefer coding to gaming.
 - 🌐 My website: [https://alexwauquier.com](https://alexwauquier.com)
+- 🗻 Codeberg: [https://codeberg.org/alexwauquier](https://codeberg.org/alexwauquier)
 
 ## 💾 Skills
 
